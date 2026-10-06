@@ -18,21 +18,22 @@ My interests span backend development, data engineering and automation. I am par
 
 ## Featured Projects
 
+### ⚽ FootballApp
+
+An ongoing backend learning project built with Java, Spring Boot and PostgreSQL.
+
+The application includes users, football pitches, bookings, matches, reviews and messages. I am currently focusing on Spring Security, authentication and understanding how security components interact with the database and application architecture.
+
+[View FootballApp repository](https://github.com/isacmohn/footballapp)
+
 ### 🎓 Student Administration Integration (Bachelor Project)
 
 Bachelor project focused on integrating the student administration systems FS (Felles Studentsystem) and Mobility Online. The project explored how data can be exchanged between enterprise systems using REST APIs and GraphQL, with emphasis on interoperability, system integration and information flow across organizational boundaries.
 
-### 🚰 Smart Water Pipeline
-
-An ETL pipeline that retrieves weather forecasts from the Norwegian Meteorological Institute (MET), transforms rainfall forecasts into drainage control decisions, stores the results in SQLite and visualizes operational data through a dashboard.
 
 ### 🍽️ Waaberi Restaurant System
 
 A restaurant management platform focused on sales tracking, inventory monitoring and operational reporting.
-
-### 📚 Student API
-
-Spring Boot REST API demonstrating layered architecture, database integration and CRUD operations.
 
 ## Always Learning
 
