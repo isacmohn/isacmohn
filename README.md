@@ -18,6 +18,10 @@ My interests span backend development, data engineering and automation. I am par
 
 ## Featured Projects
 
+### 🎓 Student Administration Integration (Bachelor Project)
+
+Bachelor project focused on integrating the student administration systems FS (Felles Studentsystem) and Mobility Online. The project explored how data can be exchanged between enterprise systems using REST APIs and GraphQL, with emphasis on interoperability, system integration and information flow across organizational boundaries.
+
 ### ⚽ FootballApp
 
 An ongoing backend learning project built with Java, Spring Boot and PostgreSQL.
@@ -26,14 +30,6 @@ The application includes users, football pitches, bookings, matches, reviews and
 
 [View FootballApp repository](https://github.com/isacmohn/footballapp)
 
-### 🎓 Student Administration Integration (Bachelor Project)
-
-Bachelor project focused on integrating the student administration systems FS (Felles Studentsystem) and Mobility Online. The project explored how data can be exchanged between enterprise systems using REST APIs and GraphQL, with emphasis on interoperability, system integration and information flow across organizational boundaries.
-
-
-### 🍽️ Waaberi Restaurant System
-
-A restaurant management platform focused on sales tracking, inventory monitoring and operational reporting.
 
 ## Always Learning
 
